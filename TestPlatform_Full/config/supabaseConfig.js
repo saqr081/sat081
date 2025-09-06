@@ -1,3 +1,0 @@
-// Paste your Supabase project keys here
-export const supabaseUrl = "https://rdrwfskkjjyahqyrhyer.supabase.co";
-export const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJkcndmc2tramp5YWhxeXJoeWVyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTcxMzgwNDIsImV4cCI6MjA3MjcxNDA0Mn0.IHP_G8W5WmxRVXsJ1Kw3rGVDrB1h1TFKs7a42phFN_0";
